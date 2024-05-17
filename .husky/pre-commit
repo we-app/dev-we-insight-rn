@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+yarn lint
+yarn typecheck
+yarn lint-package-json
+cd src/ && yarn test && cd ..
