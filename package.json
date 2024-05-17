@@ -1,6 +1,6 @@
 {
   "name": "@khazarweapp/we-insights-react-native",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "[we-insights] is a powerful utility library designed to streamline data collection processes for WeApp employees. It simplifies the process of gathering, storing, and managing data within WeApp projects, making it an invaluable tool for enhancing efficiency and productivity.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
